@@ -1,0 +1,37 @@
+=========================
+
+ASP.NET Core
+
+=========================
+
+Build results
+
+bin/ obj/
+
+Visual Studio
+
+.vs/ .user .suo .userosscache .sln.docstates
+
+Rider
+
+.idea/
+
+Database
+
+app.db *.db
+
+Logs
+
+*.log
+
+OS files
+
+Thumbs.db .DS_Store
+
+Node / vendor libraries
+
+wwwroot/lib/
+
+Environment files
+
+.env
